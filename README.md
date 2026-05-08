@@ -1,5 +1,5 @@
 # App de Tempo Atual Utilizando WeatherAPI online
-Criação de um App de Tempo utilizando CSS, Jason, Html
+Criação de um App de Tempo utilizando CSS, Java Script, Html
 
 # Print do Projeto
 
